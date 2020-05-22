@@ -1,0 +1,3 @@
+[submodule "install/brunsli"]
+	path = install/brunsli
+	url = https://github.com/google/brunsli
